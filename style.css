@@ -47,7 +47,7 @@ nav a:hover {
 .pizza img {
     width: 300px;
     height: 200px;
-    /* margin-top: 20px; */
+    margin-top: 20px; 
 }
 
 .pizza h2 {
